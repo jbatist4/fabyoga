@@ -1,6 +1,8 @@
-# FabYoga
+# FabYoga (fabyoga.com.br)
 
 Site institucional de Fabiane Batista, instrutora de Yoga em João Pessoa/PB. Desenvolvido com Next.js 15 e exportação estática para hospedagem na Hostinger.
+
+🔗 **Repositório GitHub:** [github.com/jbatist4/fabyoga](https://github.com/jbatist4/fabyoga)
 
 ---
 
@@ -178,8 +180,10 @@ Definido em [`app/globals.css`](app/globals.css) via `@theme inline` do Tailwind
 
 ---
 
-## Créditos
+## Autor
 
-**Autor:** Jorge Batista
-**LinkedIn:** [linkedin.com/in/jbatist4321](https://www.linkedin.com/in/jbatist4321/)
-**E-mail:** jbatist4321@gmail.com
+**Jorge Batista**  
+* Desenvolvedor Web & Consultor de Soluções Digitais  
+* **GitHub:** [github.com/jbatist4](https://github.com/jbatist4)  
+* **LinkedIn:** [linkedin.com/in/jbatist4321](https://www.linkedin.com/in/jbatist4321/)  
+* **E-mail:** jbatist4321@gmail.com
